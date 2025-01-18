@@ -1,2 +1,3 @@
 # Demo_delta
-Delta class project
+Delta class project ans info
+
